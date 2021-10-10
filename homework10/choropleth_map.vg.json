@@ -49,6 +49,7 @@
       {"field": "properties.NAME", "type": "nominal", "title": "Country"},
       {"field": "Vaccinations", "type": "quantitative","title": "Total daily vaccinations"}
     ]
-  }
+  },
+"config": { "title": { "font": "sans-serif", "fontSize": 14 } }
 
 }
